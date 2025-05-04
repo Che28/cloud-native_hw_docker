@@ -1,4 +1,4 @@
-<<EOF > 
+
 # 2025cloud Flask App
 
 ## 📦 Build image
@@ -19,4 +19,4 @@ docker push docker.io/jasonh1128/2025cloud:flask
 
 ## 🔗 View
 Visit http://localhost:5000
-EOF
+
