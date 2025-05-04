@@ -20,3 +20,12 @@ docker push docker.io/jasonh1128/2025cloud:flask
 ## 🔗 View
 Visit http://localhost:5000
 
+
+
+
+echo "✅ This is for testing GitHub Action build." >> README.md
+
+# Git 操作
+git add README.md
+git commit -m "Trigger GitHub Action build for test"
+git push origin main
