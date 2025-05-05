@@ -52,11 +52,5 @@ RUN this will fail
 
 ---
 
-## 🖼️ 圖片補充（以下請自行插圖）
 
-- GitHub Actions 成功執行畫面：
-  ![GitHub Action](./images/github-action-success.png)
-
-- Docker Hub tag 頁面截圖：
-  ![Docker Hub Tags](./images/dockerhub-tags.png)
 
